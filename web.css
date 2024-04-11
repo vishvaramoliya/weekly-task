@@ -1,0 +1,148 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header{
+    /* height: 100px; */
+    width: 100%;
+    background-color: transparent;
+    /* border: 10px solid white; */
+    position: fixed;
+    top: 0px;
+    transition-duration: 0.5s;
+}
+
+.head1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    /* background-color: black; */
+    padding-top: 15px;
+    padding-bottom: 15px;
+    /* position: fixed;
+    top: 0; */
+    width: 100%;
+}
+#box a{
+    text-decoration: none;
+    margin-left: 10px;
+    color: white;
+}
+#head2{
+    display: none;
+}
+.box{
+    text-align: center;
+}
+#head2{
+    margin-left: 50px;
+}
+.background{
+    background-color: black;
+}
+
+
+
+
+.main2{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(https://rnbtheme.com/seventy-eighth/wp-content/uploads/sites/79/2021/04/back12.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    /* background-repeat: no-repeat; */
+    /* border: 10px solid black; */
+    padding-top: 200px;
+}
+
+.box4 p{
+        font-family: "Whisper", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: white;
+        font-size: 30px;
+}
+
+#b1{
+    color: white;
+    font-size: 50px;
+}
+.cd-intro{
+    height: 60px;
+    width: 100%;
+    /* border: 3px solid red; */
+}
+.cd-headline{
+    /* border:  3px solid blue; */
+    margin-top: -70px;
+}
+
+.box4 button{
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+    background-color: #e72d43;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    border: none;
+    margin-top: 20px;
+}
+
+
+
+.box5 img{
+    height: 100%;
+    width: 100%;
+}
+.box6{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+}
+.box6 div{
+    text-align: center;
+    margin-top: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    /* border: 1px solid; */
+
+}
+
+.p2{
+    font-family: "Whisper", cursive;
+        font-weight: 400;
+        font-style: normal;
+        color: rgb(0, 0, 0);
+        font-size: 30px;
+}
+.main3 .col{
+    margin: 0;
+    padding: 0;
+}
+.main3{
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    margin-top: -100px;
+}
+
+
+.box7{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    background-color: white;
+    text-align: center;
+}
+.box7 div{
+    text-align: center;
+    margin-top: 30px;
+    padding-left: 50px;
+    padding-right: 50px;
+    background-color: white;
+    /* border: 1px solid; */
+
+}
+.box7 .p2{
+    margin-top: 100px;
+}
