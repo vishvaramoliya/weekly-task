@@ -122,7 +122,7 @@ header{
     margin: 0;
     padding: 0;
 }
-.main3{
+.main3 .container{
     box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
     margin-top: -100px;
 }
@@ -145,4 +145,195 @@ header{
 }
 .box7 .p2{
     margin-top: 100px;
+}
+
+
+
+.main4{
+    margin-top: 100px;
+}
+
+.video{
+    padding: 20px;
+    height: 100%;
+    width: 100%;
+}
+.video img{
+    height: 100%;
+    width: 100%;
+    border-radius: 10px;
+    transition: 1s;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+}
+.v1{
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+
+}
+.v1 img:hover{
+    transform: scale(1.1);
+    transition: 1s;
+}
+
+
+.box8{
+    text-align: center;
+    /* border: 1px solid; */
+    padding-top: 20px;
+}
+.txt2{
+    padding: 0px 30px 0px 30px;
+    color: rgb(154, 154, 154);
+}
+
+
+.b2{
+    padding: 15px 30px 15px 30px;
+    border-radius: 50px;
+    background-color: #e72d43;
+    color: white;
+    font-size: 15px;
+    letter-spacing: 2px;
+    border: none;
+    margin-top: 20px;
+}
+
+
+
+
+
+
+
+
+
+.main5{
+    background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url(https://rnbtheme.com/seventy-eighth/wp-content/uploads/sites/79/2021/04/back11.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    padding-top: 50px;
+    margin-top: 50px;
+    padding-bottom: 150px;
+}
+.box10{
+    margin-top: 50px;
+}
+.p3{
+    color: white;
+    line-height: 30px;
+}
+.main5 h1{
+    color: white;
+    line-height: 30px;
+}   
+.img1{
+    height: 100%;
+    width: 100%;
+}
+.img1 img{
+    height: 100%;
+    width: 100%;
+}
+.txt3{
+    text-align: center;
+    color: white;
+    line-height: 20px;
+    padding-top: 20px;
+}
+.txt3 h3{
+    font-size: 20px;
+}
+.txt3 p{
+    color: rgb(146, 146, 146);
+}
+
+
+
+
+.main6{
+    margin-top: -100px;
+}
+
+.box11{
+    padding-top: 100px;
+}
+
+.main6 .m2{
+    border: 1px solid rgb(171, 171, 171);
+    padding-top: 10px;
+    text-align: center;
+}
+.menu1{
+    background-color: red;
+    color: white;
+}
+
+
+
+.main6 .box11{
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+    padding-bottom: 50px;
+}
+.m{
+    /* border: 1px solid; */
+    display: flex;
+    justify-content: space-between;
+}
+.m div{
+    /* border: 1px solid; */
+    padding: 10px;
+}
+.box12{
+    margin-top: 30px;
+}
+.im1{
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.txt4{
+    width: 100%;
+}
+.txt4 div{
+    padding: 0px;
+    display: flex;
+    align-items: center;
+}
+.rs{
+    display: flex;
+    align-items: center;
+}
+
+
+
+
+.main7{
+    margin-top: 100px;
+}
+.main7 img{
+    height: 100%;
+    width: 100%;
+}
+.main7 .row .col-12{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+footer{
+    background-color: #262626;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+footer .row .col{
+    text-align: center;
+    color: white;
+    display: flex;
+    align-items: center;
+    /* border: 1px solid; */
+}
+footer i{
+    margin: 10px;
 }
